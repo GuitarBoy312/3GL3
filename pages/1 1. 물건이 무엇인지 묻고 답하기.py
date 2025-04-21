@@ -143,7 +143,7 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
     )
     st.markdown(
         """
-        **😀 학습자:** What's this?(왓스 디스) 또는 What's that?(왓스 댓)**  
+        **😀 학습자:** **What's this?(왓스 디스) 또는 What's that?(왓스 댓)**  
         **🤖 잉글링:** It's a .....(이츠 어...)**  
         **😀 학습자:** Nice.(나이스)**  
         **🤖 잉글링:** What's this?(왓스 디스) 또는 What's that?(왓스 댓)**  
