@@ -132,7 +132,7 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
 
     st.markdown(
         """
-        물건 목록
+        물건 목록  
         ball⚾(볼, 공)  
         bike🚲(바이크, 자전거)  
         doll🪆(돌, 인형)  
