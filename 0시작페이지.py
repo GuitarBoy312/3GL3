@@ -11,5 +11,5 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.divider()
-st.write("1️⃣ 자기 소개하기, 만나고 헤어질 떄의 인사하기")
-st.write("2️⃣ 안부 묻고 답하기")
+st.write("1️⃣ 물건이 무엇인지 묻고 답하기")
+st.write("2️⃣ ")
