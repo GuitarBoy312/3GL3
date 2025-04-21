@@ -133,12 +133,12 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
     st.markdown(
         """
         **물어보고 대답할 물건들**    
-        ball⚾(볼, 공)  
-        bike🚲(바이크, 자전거)  
-        doll🪆(돌, 인형)  
-        cup☕(컵)  
-        hat👒(햇, 모자)  
-        robot🤖(로봇)  
+        ⚾ball(볼, 공)  
+        🚲bike(바이크, 자전거)  
+        🪆doll(돌, 인형)  
+        ☕cup(컵)  
+        👒hat(햇, 모자)  
+        🤖robot(로봇)  
         """
     )
     st.markdown(
