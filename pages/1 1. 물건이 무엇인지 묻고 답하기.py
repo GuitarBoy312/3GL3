@@ -23,7 +23,7 @@ SYSTEM_MESSAGE = {
     4. 너는 "What's this?" 또는 "What's that? 이라고 질문해. 질문의 끝에 아래의 [stuff list]에 있는 물건과 관련된 이모지를 붙여서 내가 대답할 수 있게 해야해.
     5. 그 후 내가 물건이 뭐라고 말하면, 너는 "Nice." 라고만 답해. 
     [stuff list]
-    1. ball⚾
+    1. ball🥎
     2. bike🚲
     3. doll🪆
     4. cup☕
@@ -133,7 +133,7 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
     st.markdown(
         """
         **물어보고 대답할 물건들**    
-        ⚾ ball(볼, 공)  
+        🥎 ball(볼, 공)  
         🚲 bike(바이크, 자전거)  
         🪆 doll(돌, 인형)  
         ☕ cup(컵)  
