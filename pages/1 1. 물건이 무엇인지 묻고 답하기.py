@@ -143,17 +143,14 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
     )
     st.markdown(
         """
-        **😀 학습자:** What's this?(왓스 디스) 또는 What's that?(왓스 댓)  
+        **😀 나:** What's this?(왓스 디스) 또는 What's that?(왓스 댓)  
         **🤖 잉글링:** It's a 물건(이츠 어 물건)  
-        **😀 학습자:** Nice.(나이스)  
+        **😀 나:** Nice.(나이스)  
         **🤖 잉글링:** What's this?(왓스 디스) 또는 What's that?(왓스 댓)  
-        **😀 학습자:** It's a 물건(이츠 어 물건)  
+        **😀 나:** It's a 물건(이츠 어 물건)  
         **🤖 잉글링:** Nice.(나이스)  
         """
     )
-    st.info("❓ 어렵다면 잉글링의 답변을 따라하는 것도 좋은 방법이에요.")
-
-
     
 # 버튼 배치
 col1, col2 = st.columns([1,1])
