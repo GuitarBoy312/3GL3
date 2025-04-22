@@ -128,7 +128,7 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
 
     st.divider()
 
-    st.write("### 🗣️ 잉글링과 이렇게 대화해 보세요!")
+ 
 
     st.markdown(
         """
@@ -141,6 +141,7 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
         🤖 robot(로봇)  
         """
     )
+    st.write("### 🗣️ 잉글링과 이렇게 대화해 보세요!")
     st.markdown(
         """
         **😀 나:** What's this?(왓스 디스) 또는 What's that?(왓스 댓)  
