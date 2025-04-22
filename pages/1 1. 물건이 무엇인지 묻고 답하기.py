@@ -25,7 +25,7 @@ SYSTEM_MESSAGE = {
     [stuff list]
     1. ball🥎
     2. bike🚲
-    3. doll🪆
+    3. doll🎎
     4. cup☕
     5. hat👒
     6. robot🤖
@@ -135,7 +135,7 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
         **물어보고 대답할 물건들**    
         🥎 ball(볼, 공)  
         🚲 bike(바이크, 자전거)  
-        🪆 doll(돌, 인형)  
+        🎎 doll(돌, 인형)  
         ☕ cup(컵)  
         👒 hat(햇, 모자)  
         🤖 robot(로봇)  
@@ -151,12 +151,6 @@ with st.expander("❗❗ 글상자를 펼쳐 사용방법을 읽어보세요 �
         **🤖 잉글링:** Nice.(나이스)  
         """
     )
-
-    st.subheader("🔸 캐릭터 이름 예시")
-    character_names = ["Kate(케이트)", "Eric(에릭)", "Paul(폴)", "Sam(샘)", "Cora(코라)", "Danny(대니)", "Alice(엘리스)"]
-    for name in character_names:
-        st.write(f"- {name}")
-
     st.info("❓ 어렵다면 잉글링의 답변을 따라하는 것도 좋은 방법이에요.")
 
 
